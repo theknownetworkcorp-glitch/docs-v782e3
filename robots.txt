@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nd7jgy.gebyar4dall.cyou/sitemap.xml
